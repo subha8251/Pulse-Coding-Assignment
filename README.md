@@ -224,8 +224,8 @@ Subhasish - [GitHub](https://github.com/subha8251)
 
 Project Link: [https://github.com/subha8251/Pulse-Coding-Assignment](https://github.com/subha8251/Pulse-Coding-Assignment)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Thanks to all contributors
 - Inspired by various open-source scraping tools
-- Built with Python and love ❤️
+- Built with Python and love
